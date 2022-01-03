@@ -61,7 +61,7 @@ ul {
 
 /* start components  */
 .main-heading {
-  padding-top: 100px;
+  padding-top: 2px;
   text-align: center;
 }
 
@@ -318,12 +318,11 @@ header nav ul li a {
 }
 
 /* end footer  */
+
 @media (max-width: 281px) {
   header .container .title {
     margin-left: 51px;
     transform: translate(-50px, 50%);
     font-size: 20px;
   }
-}
-
 }
